@@ -92,6 +92,6 @@ AES-256 Image Security is distributed under the [MIT] license. Please refer to t
 ## 8. Contact Information
 If you have any questions, suggestions, or need assistance, please contact our support team at [deepikailavazhagan@gmail.com]. We value your feedback and will be happy to help you with any queries.
 
-Project by Deepika ilavazhagan!!
-
 Thank you for using AES-256 Image Security. We hope it meets your image security needs effectively and provides you with peace of mind.
+
+Project by ##Deepika ilavazhagan!!
