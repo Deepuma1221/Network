@@ -94,4 +94,4 @@ If you have any questions, suggestions, or need assistance, please contact our s
 
 Thank you for using AES-256 Image Security. We hope it meets your image security needs effectively and provides you with peace of mind.
 
-Project by ##Deepika ilavazhagan!!
+**Project by **Deepika ilavazhagan!!****
